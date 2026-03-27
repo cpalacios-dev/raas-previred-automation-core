@@ -1,0 +1,7 @@
+{
+  "name": "PagoRemuneracionesRobot",
+  "description": "Robot para actualización de parámetros de Previred",
+  "version": "1.0.0",
+  "author": "TransformacionIT",
+  "enabled": true
+}

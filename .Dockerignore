@@ -1,0 +1,26 @@
+*
+
+# Node
+!src/
+!package.json
+!package-lock.json
+!.nvmrc
+!.npmrc
+!tsconfig.build.json
+!tsconfig.json
+!node_modules/
+!dist/
+
+# Python
+!*.py
+!requirements.txt
+!.python-version
+!*.toml
+!metadata.json
+
+# Dotnet
+obj/
+bin/
+.vs/
+build/
+publish/

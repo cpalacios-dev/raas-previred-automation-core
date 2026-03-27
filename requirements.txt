@@ -1,0 +1,23 @@
+# --- API & Microservicio (Flask) ---
+flask                   # Framework para exponer el endpoint que invoca Appian
+requests                # Para realizar las llamadas de Callback a Appian
+waitress                # Servidor WSGI para producción
+
+# --- Automatización RPA (Navegación y Scraping) ---
+playwright              # Motor principal para controlar el navegador
+beautifulsoup4          # Para parsear el HTML de las tablas
+lxml                    # Parser rápido para BeautifulSoup
+# nest-asyncio            # DESHABILITADO: No es necesario para Playwright sync API
+
+# --- Manipulación de Datos y Excel (ETL) ---
+pandas                  # Procesamiento de datos y consolidación de tablas
+
+# --- Google Cloud Platform (GCP) ---
+google-cloud-storage    # Para subir los consolidados al Bucket
+
+# --- Notificaciones ---
+sendgrid                # Envío de correos electrónicos
+
+# --- Configuración y Variables ---
+pyyaml                  # Para leer los archivos de configuración overlays (.env.yaml)
+pydantic-settings       # Gestión robusta de configuraciones y variables de entorno
