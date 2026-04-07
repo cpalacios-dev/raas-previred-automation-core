@@ -163,6 +163,9 @@ docker run -p 8080:8080 raas-pago-remuneraciones
 - **Escalabilidad**: Preparado para múltiples robots y procesos
 
 ---
-**Desarrollado por:** TransformacionIT  
+**Desarrollado por:** Cristian Palacios  
 **Arquitectura:** RaaS v2.0 (Robots as a Service)  
 **Versión:** 2.0.0
+
+## 📌 Contexto sobre el repositorio
+Debido a estrictos Acuerdos de Confidencialidad (NDA) firmados durante mis últimos 6 años de trabajo en el sector corporativo, bancario y de telecomunicaciones (SURA, Claro, EY), **mi código de producción es de carácter privado e intelectualmente propiedad de dichas empresas.** Este repositorio público sirve como una demostración de mis estándares de codificación, estructuración de servicios backend y buenas prácticas.
